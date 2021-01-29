@@ -2,7 +2,7 @@
 [![codecov](https://codecov.io/gh/West-Coast-Quaranteam/cs107-FinalProject/branch/master/graph/badge.svg?token=NY1T0T5UG3)](undefined)
 
 # apollo_ad
-#### an automatic differentiation package for Harvard AC207 
+#### an automatic differentiation package created for Harvard AC207 
 
 please see `docs/documentation.pdf` for more details
 
