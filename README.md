@@ -1,6 +1,6 @@
-# apolloa-ad 
+# apollo-ad 
 
-### Building an automatic differentiation package for ac207 (please see documentation for more details)
+### Building an automatic differentiation package for ac207 (please see `docs/documentation.pdf` for more details)
 
 [![Build Status](https://travis-ci.com/West-Coast-Quaranteam/cs107-FinalProject.svg?token=z1QwjsA3zqLzUQzz5VsE&branch=master)](https://travis-ci.com/West-Coast-Quaranteam/cs107-FinalProject) 
 [![codecov](https://codecov.io/gh/West-Coast-Quaranteam/cs107-FinalProject/branch/master/graph/badge.svg?token=NY1T0T5UG3)](undefined)
